@@ -6,6 +6,7 @@ Repositorio de prueba para comandos de git
 
 
 ## Contenido/Descripcion 
+Es una prueba del readme
 
 | Email | Autores |
 |-------|---------|
